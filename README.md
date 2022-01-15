@@ -8,28 +8,9 @@ Aplikacja dostępna jest na urządzenia mobilne jak również komputery.
 
 Link do strony internetowej: https://pfco.azurewebsites.net/
 
-<h1 align="center">
 
-<br>
+<h4 align="center">Employee Application</h4>
 
-<p align="center">
-<img src=""  alt="Logo">
-</p>
-
-<br>
-
-<br>
-
-</h1>
-
-<h4 align="center">Project title</h4>
-
-<p align="center">
-  <a >
-    <img src=""
-         alt="Screenshot">
-  </a>
-</p>
 
 ## Project Overview 🎉
 
