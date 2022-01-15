@@ -1,56 +1,27 @@
-Prosta aplikacja do modyfikacji użytkowników bazy danych. 
-Aplikacja napisana w C# (Visual Studio) baza danych udostępniona z zasobów Azure.
-Aplikacja pozwala na dodawanie/usuwanie/edytowanie użytkowników. Oczywistym problemem było połączenie aplikacji do Azure.
-Udało się to wykonać wykupująć nową baze danych na Azure i za pośrednictwem Microsoft SQL Server Managment Studio udało się początkowo dodawać nowych użytkowników.
-Strona internetowa została zabezpieczona przed przechowywaniem danych jak również istnieje zabezpieczenie transferu (https) dzięki udostępnionych pomocy ze strony Azure.
-Istnieje ciągła interakcja przez co nowe rozwiązania można udostępniać zaraz po ich napisaniu.
-Aplikacja dostępna jest na urządzenia mobilne jak również komputery.
 
-Link do strony internetowej: https://pfco.azurewebsites.net/
+<h2 align="center">Link do strony internetowej: https://pfco.azurewebsites.net/</h2>
 
 
 <h4 align="center">Employee Application</h4>
 
 
-## Project Overview 🎉
+## Opis projektu 🎉
+Prosta aplikacja do modyfikacji użytkowników bazy danych. 
+Aplikacja pozwala na dodawanie/usuwanie/edytowanie użytkowników.
 
-## Tech/framework used 🔧
+## Co zostało użyte 🔧
 
-| Tech                                                    | Description                              |
 | ------------------------------------------------------- | ---------------------------------------- |
 | Visual Studio                           | Środowisko w którym została napisana aplikacja. Aplikacja napisana jest w C#  |
 | Azure                           | Platforma chmurowa która pozwala na przetwarzać i składować dane  |
 | Microsoft SQL Server Managment Studio                           | Narzędzie pozwalające na monitorowanie i administracje instancjami SQL Server.   |
 
 
-## Screenshots 📺
+## Co zostało dodane 🔍
 
-<p align="center">
-    <img src="Przechwytywanie.png" alt="Screenshot">
-</p>
+Możliwość dodawania/usuwania/edycji użytkowników bazy danych.
+Zabezpieczenie transferu (https) przy pomocy udostępnionych przez Azure narzędzi.
+Zabezpieczenie i przechowywanie danych.
+Ciągła interakcja, która pozwala na zmiany w programie natychmiastowe.
+Aplikacja dostępna na urządzenia mobilne jak i komputery.
 
-<p align="center">
-    <img src="" alt="Screenshot">
-</p>
-
-<p align="center">
-    <img src="" alt="Screenshot">
-</p>
-
-## Code Example/Issues 🔍
-
-
-## Installation 💾
-
-## Available scripts
-
-| Command                   | Description                   |     |
-| ------------------------- | ----------------------------- | --- |
-| `npm run start`           | Open local server             |     |
-| `npm run build`           | Create optimized build        |     |
-| `npm run test`            | Run tests                     |     |
-
-
-## Live 📍
-
-## License 🔱
