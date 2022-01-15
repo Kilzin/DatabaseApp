@@ -18,9 +18,9 @@ Link do strony internetowej: https://pfco.azurewebsites.net/
 
 | Tech                                                    | Description                              |
 | ------------------------------------------------------- | ---------------------------------------- |
-| [X](X)                           | XYZ   |
-| [X](X)                           | XYZ   |
-| [X](X)                           | XYZ   |
+| [X](Visual Studio)                           | Środowisko w którym została napisana aplikacja. Aplikacja napisana jest w C#  |
+| [X](Azure)                           | Platforma chmurowa która pozwala na przetwarzać i składować dane  |
+| [X](Microsoft SQL Server Managment Studio)                           | Narzędzie pozwalające na monitorowanie i administracje instancjami SQL Server.   |
 
 
 ## Screenshots 📺
