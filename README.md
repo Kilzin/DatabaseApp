@@ -26,7 +26,7 @@ Link do strony internetowej: https://pfco.azurewebsites.net/
 ## Screenshots 📺
 
 <p align="center">
-    <img src="" alt="Screenshot">
+    <img src="Przechwytywanie.png" alt="Screenshot">
 </p>
 
 <p align="center">
