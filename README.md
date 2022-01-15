@@ -29,5 +29,7 @@ Zabezpieczenie i przechowywanie danych.
 
 Ciągła interakcja, która pozwala na zmiany w programie natychmiastowe.
 
+Aplikacja opublikowana z pomocą Visual Studio.
+
 Aplikacja dostępna na urządzenia mobilne jak i komputery.
 
