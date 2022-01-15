@@ -22,8 +22,12 @@ Microsoft SQL Server Managment Studio - Narzędzie pozwalające na monitorowanie
 ## Co zostało dodane 🔍
 
 Możliwość dodawania/usuwania/edycji użytkowników bazy danych.
+
 Zabezpieczenie transferu (https) przy pomocy udostępnionych przez Azure narzędzi.
+
 Zabezpieczenie i przechowywanie danych.
+
 Ciągła interakcja, która pozwala na zmiany w programie natychmiastowe.
+
 Aplikacja dostępna na urządzenia mobilne jak i komputery.
 
