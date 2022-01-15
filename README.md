@@ -13,7 +13,9 @@ Aplikacja pozwala na dodawanie/usuwanie/edytowanie użytkowników.
 
 
 Visual Studio - Środowisko w którym została napisana aplikacja. Aplikacja napisana jest w C#.
+
 Azure - Platforma chmurowa która pozwala na przetwarzać i składować dane.
+
 Microsoft SQL Server Managment Studio - Narzędzie pozwalające na monitorowanie i administracje instancjami SQL Server.
 
 
